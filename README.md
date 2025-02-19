@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshay</h1>
 <h3 align="center">A passionate Java Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on **Space2Launch**
+- 🔭 I’m currently working on **Start2Launch**
 
 - 🌱 I’m currently learning **Java and SpringBoot**
 
