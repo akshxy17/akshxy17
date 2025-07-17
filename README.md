@@ -76,7 +76,7 @@
   <a href="mailto:akshayverma79936@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
-  <a href="https://personal-portfolio-steel-rho.vercel.app/" target="blank">
+  <a href="https://akshay-portfoliozz.vercel.app/" target="blank">
     <img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio" />
   </a>
 </p>
